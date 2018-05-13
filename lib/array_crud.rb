@@ -4,7 +4,7 @@ end
 
 def create_an_array
   create_an_array = array.new 
-  create_an_array << "dog 1", "dog 2", "dog 3", "dog 4"
+  create_an_array << "dog 1"
 end
 
 def add_element_to_end_of_array(array, element)
